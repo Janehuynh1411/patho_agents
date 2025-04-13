@@ -1,0 +1,8 @@
+torch==2.2.0
+transformers==4.38.0
+openai==1.16.0
+
+faiss-cpu        # for retrieval if using Path-RAG indexing
+scikit-learn     # for evaluation/visualization
+matplotlib       # for plotting if needed
+
