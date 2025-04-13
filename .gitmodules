@@ -1,0 +1,3 @@
+[submodule "external/path_rag"]
+	path = external/path_rag
+	url = https://github.com/embedded-robotics/path-rag.git
